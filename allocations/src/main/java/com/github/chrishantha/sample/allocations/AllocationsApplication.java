@@ -15,7 +15,7 @@
  */
 package com.github.chrishantha.sample.allocations;
 
-import com.beust.jcommander.Parameter;
+//import com.beust.jcommander.Parameter;
 import com.github.chrishantha.sample.base.SampleApplication;
 
 public class AllocationsApplication implements SampleApplication {
